@@ -1,0 +1,329 @@
++
+Name U38N3_25C_pH5.4.csv
+lf 90
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 0 65
+pB! 0.0572 1e-6 0.5
+pC! 0.0364 1e-6 0.5
+dwB -0.42 -5 5
+dwC -4.77 -8 -2
+kexAB! 4.02e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.71 0.5 5.0
+R2 7.91 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name U38N3_25C_pH6.0.csv
+lf 90
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 0 65
+pB! 0.0154 1e-6 0.5
+pC! 0.0098 1e-6 0.5
+dwB 0.5 -5 5
+dwC -5.54 -8 -2
+kexAB! 3.85e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.24 0.5 5.0
+R2 8.57 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name U38N3_25C_pH6.4.csv
+lf 60
+Temp 25.0
+AlignMag Avg
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 0 65
+pB! 0.0062 1e-6 0.5
+pC! 0.0040 1e-6 0.5
+dwB 0.56 -5 5
+dwC -6.88 -8 -2
+kexAB! 3.81e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.59 0.5 5.0
+R2 6.87 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name U38N3_25C_pH7.0.csv
+lf 80
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 0 65
+pB! 0.0016 1e-6 0.5
+pC! 0.0010 1e-6 0.5
+dwB 2.81 -5 5
+dwC -5.81 -8 -2
+kexAB! 3.79e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.01 0.5 5.0
+R2 7.48 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name U38N3_25C_pH7.4.csv
+lf 90
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 0 65
+pB! 0.00063 1e-6 0.5
+pC! 0.00040 1e-6 0.5
+dwB 0.16 -5 5
+dwC -5.37 -8 -2
+kexAB! 3.79e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.48 0.5 5.0
+R2 8.55 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name U23C6_25C_pH5.4.csv
+lf 225
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 20 90
+pB! 0.0572 1e-6 0.5
+pC! 0.0364 1e-6 0.5
+dwB 0.78 -5 5
+dwC 1.23 0.0 5.0
+kexAB! 4.02e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 2.09 0.5 5.0
+R2 50.52 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name U23C6_25C_pH6.0.csv
+lf 225
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 20 90
+pB! 0.0154 1e-6 0.5
+pC! 0.0098 1e-6 0.5
+dwB 1.23 -5 5
+dwC 2.08 0.0 5.0
+kexAB! 3.85e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.84 0.5 5.0
+R2 48.64 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name U23C6_25C_pH6.4.csv
+lf 150
+Temp 25.0
+AlignMag Avg
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 20 90
+pB! 0.0062 1e-6 0.5
+pC! 0.0040 1e-6 0.5
+dwB -1.66 -5 5
+dwC 2.42 0.0 5.0
+kexAB! 3.81e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 2.44 0.5 5.0
+R2 31.49 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name U23C6_25C_pH7.0.csv
+lf 200
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 20 90
+pB! 0.0016 1e-6 0.5
+pC! 0.0010 1e-6 0.5
+dwB 2.47 -5 5
+dwC 2.38 0.0 5.0
+kexAB! 3.79e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 2.37 0.5 5.0
+R2 38.61 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name U23C6_25C_pH7.4.csv
+lf 225
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 20 90
+pB! 0.00063 1e-6 0.5
+pC! 0.00040 1e-6 0.5
+dwB -4.49 -5 5
+dwC 2.78 0.0 5.0
+kexAB! 3.79e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.95 0.5 5.0
+R2 47.86 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name A35C8_25C_pH5.4.csv
+lf 225
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 10 130
+pB! 0.0572 1e-6 0.5
+pC! 0.0364 1e-6 0.5
+dwB -0.43 -5 5
+dwC -2.45 -4 0.0
+kexAB! 4.02e7 1.0 1e15
+kexAC! 0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.06 0.5 5.0
+R2 36.55 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name A35C8_25C_pH6.0.csv
+lf 225
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 10 130
+pB! 0.0154 1e-6 0.5
+pC! 0.0098 1e-6 0.5
+dwB 0.88 -5 5
+dwC -2.56 -4 0.0
+kexAB! 3.85e7 1.0 1e15
+kexAC! 0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.4 0.5 5.0
+R2 34.05 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name A35C8_25C_pH6.4.csv
+lf 150
+Temp 25.0
+AlignMag Avg
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 10 130
+pB! 0.0062 1e-6 0.5
+pC! 0.0040 1e-6 0.5
+dwB -1.97 -5 5
+dwC -2.68 -4 0.0
+kexAB! 3.81e7 1.0 1e15
+kexAC! 0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 2.21 0.5 5.0
+R2 22.22 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name A35C8_25C_pH7.0.csv
+lf 200
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 10 130
+pB! 0.0016 1e-6 0.5
+pC! 0.0010 1e-6 0.5
+dwB 0.52 -5 5
+dwC -2.43 -4 0.0
+kexAB! 3.79e7 1.0 1e15
+kexAC! 0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.92 0.5 5.0
+R2 18.71 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name A35C8_25C_pH7.4.csv
+lf 225
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 10 130
+pB! 0.00063 1e-6 0.5
+pC! 0.00040 1e-6 0.5
+dwB 0.32 -5 5
+dwC -2.73 -4 0.0
+kexAB! 3.79e7 1.0 1e15
+kexAC! 0 1.0 50000.0
+kexBC* 600 1.0 1e12
+R1 1.51 0.5 5.0
+R2 21.63 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
