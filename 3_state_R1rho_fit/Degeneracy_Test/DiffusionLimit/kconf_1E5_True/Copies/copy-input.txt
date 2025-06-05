@@ -1,0 +1,114 @@
+# pH 5.4 Parameters: ###################################
++
+Name U38N3_25C_pH5.4.csv
+lf 90
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 0 65
+pB! 0.0572 1e-6 0.5
+pC! 0.0364 1e-6 0.5
+dwB 0.0 -5 5
+dwC -5.0 -8 -2
+kexAB! 4.02e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC! 1e5 1.0 1e12
+R1 1.0 0.5 5.0
+R2 20.0 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
+# pH 6.0 Parameters: ###################################
++
+Name U38N3_25C_pH6.0.csv
+lf 90
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 0 65
+pB! 0.0154 1e-6 0.5
+pC! 0.0098 1e-6 0.5
+dwB 0.0 -5 5
+dwC -5.0 -8 -2
+kexAB! 3.85e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC! 1e5 1.0 1e12
+R1 1.0 0.5 5.0
+R2 20.0 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
+# pH 6.4 Parameters: ###################################
++
+Name U38N3_25C_pH6.4.csv
+lf 60
+Temp 25.0
+AlignMag Avg
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 0 65
+pB! 0.0062 1e-6 0.5
+pC! 0.0040 1e-6 0.5
+dwB 0.0 -5 5
+dwC -5.0 -8 -2
+kexAB! 3.81e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC! 1e5 1.0 1e12
+R1 1.0 0.5 5.0
+R2 20.0 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
+#pH 7.0 Parameters: ###################################
++
+Name U38N3_25C_pH7.0.csv
+lf 80
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 0 65
+pB! 0.0016 1e-6 0.5
+pC! 0.0010 1e-6 0.5
+dwB 0.0 -5 5
+dwC -5.0 -8 -2
+kexAB! 3.79e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC! 1e5 1.0 1e12
+R1 1.0 0.5 5.0
+R2 20.0 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
+# pH 7.4 Parameters: ###################################
++
+Name U38N3_25C_pH7.4.csv
+lf 90
+Temp 25.0
+AlignMag Auto
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+y-axis 0 65
+pB! 0.00063 1e-6 0.5
+pC! 0.00040 1e-6 0.5
+dwB 0.0 -5 5
+dwC -5.0 -8 -2
+kexAB! 3.79e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC! 1e5 1.0 1e12
+R1 1.0 0.5 5.0
+R2 20.0 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0

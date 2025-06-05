@@ -1,0 +1,73 @@
++
+FitType local
+FitEqn BM
+NumFits 1
+RandomFitStart No
+
+# pH 6.4 Parameters: ###################################
++
+Name U38N3_25C_pH6.4.csv
+lf 60
+Temp 25.0
+AlignMag Avg
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+#y-axis 20 80
+pB! 0.0062 1e-6 0.5
+pC! 0.0040 1e-6 0.5
+dwB 0.0 -1 1
+dwC -5.0 -8 -2
+kexAB! 3.81e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 1000 1.0 1e12
+R1 1.0 0.5 5.0
+R2 20.0 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name U23C6_25C_pH6.4.csv
+lf 150
+Temp 25.0
+AlignMag Avg
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+#y-axis 20 80
+pB! 0.0062 1e-6 0.5
+pC! 0.0040 1e-6 0.5
+dwB 0.0 -1 1
+dwC 2.0 0.0 5.0
+kexAB! 3.81e7 1.0 1e15
+kexAC! 0.0 1.0 50000.0
+kexBC* 1000 1.0 1e12
+R1 1.0 0.5 5.0
+R2 20.0 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+
++
+Name A35C8_25C_pH6.4.csv
+lf 150
+Temp 25.0
+AlignMag Avg
+#Trelax 0.0005 0.5
+#x-axis -2000 2000
+#y-axis 20 80
+pB! 0.0062 1e-6 0.5
+pC! 0.0040 1e-6 0.5
+dwB 0.0 -1 1
+dwC -2.3 -4 0.0
+kexAB! 3.81e7 1.0 1e15
+kexAC! 0 1.0 50000.0
+kexBC* 1000 1.0 1e12
+R1 1.0 0.5 5.0
+R2 20.0 1 100
+R1b! 0.0
+R2b! 0.0
+R1c! 0.0
+R2c! 0.0
+###################################################
